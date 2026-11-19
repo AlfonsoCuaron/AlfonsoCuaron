@@ -17,37 +17,6 @@
 </p>
 
 </div>
-
-<br />
-
-## À propos
-
-Fondateur et CEO d'**Addveo**, où je pilote la vision, la stratégie et l'organisation de l'entreprise au quotidien.
-
-J'ai dirigé et coordonné des **équipes de plus de 15 personnes** sur des projets à fort enjeu, en assurant la **gestion des budgets**, l'organisation et le pilotage opérationnel de bout en bout. Mon travail couvre aussi le **développement de marque** et la construction d'une **image de marque** cohérente, ainsi que la **gestion de crise** dans des contextes exigeants.
-
-J'interviens également comme conseiller en stratégie et management auprès d'autres structures, pour les accompagner dans leur croissance et l'optimisation de leur organisation. Je m'intéresse particulièrement aux environnements complexes et à la construction de structures solides, durables et bien gouvernées dès leur phase de croissance.
-
-<br />
-
-## Domaines d'expertise
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Direction_opérationnelle-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Stratégie-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Management_d'équipes-162144?style=for-the-badge" alt="" />
-<br />
-<img src="https://img.shields.io/badge/Gestion_de_budgets-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Développement_de_marque-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Image_de_marque-162144?style=for-the-badge" alt="" />
-<br />
-<img src="https://img.shields.io/badge/Gestion_de_crise-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Gestion_de_projet-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Organisation-162144?style=for-the-badge" alt="" />
-
-</div>
-
 <br />
 
 <div align="center">
